@@ -1,0 +1,2488 @@
+<svg width="2400" height="2900" viewBox="0 0 2400 2900" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg text{
+    text-anchor: middle;
+    dominant-baseline: middle;
+    font-family: Arial;
+}
+
+.monthLabel {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.noDate {
+    opacity: 0.2;
+}
+
+.dateBackground {
+    opacity: 0.1;
+}
+
+.dayLabel {
+    font-size: 20px;
+}
+
+.count {
+    font-size: 10px;
+    font-weight: normal;
+}
+</style>
+<g>
+    <g class="month" transform="translate(100, 100)">
+        <text class="monthLabel" x="300">Janvier</text>
+        <g class="week">
+            <g transform="translate(0, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_janvier">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 100)">
+                <text class="noDate">2</text>
+            </g>
+            <g transform="translate(200, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/5_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+                <text class="noDate">6</text>
+            </g>
+            <g transform="translate(600, 100)">
+                <text class="noDate">7</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+                <text class="noDate">8</text>
+            </g>
+            <g transform="translate(100, 200)">
+                <text class="noDate">9</text>
+            </g>
+            <g transform="translate(200, 200)">
+                <text class="noDate">10</text>
+            </g>
+            <g transform="translate(300, 200)">
+                <text class="noDate">11</text>
+            </g>
+            <g transform="translate(400, 200)">
+                <text class="noDate">12</text>
+            </g>
+            <g transform="translate(500, 200)">
+                <text class="noDate">13</text>
+            </g>
+            <g transform="translate(600, 200)">
+                <text class="noDate">14</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+                <text class="noDate">16</text>
+            </g>
+            <g transform="translate(200, 300)">
+                <text class="noDate">17</text>
+            </g>
+            <g transform="translate(300, 300)">
+                <text class="noDate">18</text>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/19_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/20_janvier">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/21_janvier">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_janvier">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+                <text class="noDate">24</text>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/26_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/27_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/28_janvier">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+                <text class="noDate">30</text>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/31_janvier">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">31</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(900, 100)">
+        <text class="monthLabel" x="300">Février</text>
+        <g class="week">
+            <g transform="translate(300, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_février">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_février">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_février">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_février">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/7_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_février">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/10_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+                <text class="noDate">11</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+                <text class="noDate">16</text>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/17_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/18_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+                <text class="noDate">19</text>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+                <text class="noDate">21</text>
+            </g>
+            <g transform="translate(300, 400)">
+                <text class="noDate">22</text>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_février">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_février">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+                <text class="noDate">26</text>
+            </g>
+            <g transform="translate(100, 500)">
+                <text class="noDate">27</text>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_février">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(1700, 100)">
+        <text class="monthLabel" x="300">Mars</text>
+        <g class="week">
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/4_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+                <text class="noDate">7</text>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/10_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+                <text class="noDate">11</text>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+                <text class="noDate">13</text>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+                <text class="noDate">15</text>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/17_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/18_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/19_mars">
+                    <rect x="-49.5" y="-49.5" width="99" height="99" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(2409)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+                <text class="noDate">21</text>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+                <text class="noDate">25</text>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/26_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/27_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+                <text class="noDate">28</text>
+            </g>
+            <g transform="translate(400, 500)">
+                <text class="noDate">29</text>
+            </g>
+            <g transform="translate(500, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_mars">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 500)">
+            <a href="https://fr.wikipedia.org/wiki/31_mars">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">31</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(100, 800)">
+        <text class="monthLabel" x="300">Avril</text>
+        <g class="week">
+            <g transform="translate(0, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/5_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/6_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+                <text class="noDate">7</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+                <text class="noDate">8</text>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/10_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/11_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/12_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/13_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/14_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+                <text class="noDate">17</text>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/18_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/19_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/20_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/21_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+                <text class="noDate">23</text>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_avril">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+                <text class="noDate">26</text>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/27_avril">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+                <text class="noDate">28</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+                <text class="noDate">29</text>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_avril">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(900, 800)">
+        <text class="monthLabel" x="300">Mai</text>
+        <g class="week">
+            <g transform="translate(200, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_mai">
+                    <rect x="-31.5" y="-31.5" width="63" height="63" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(174)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/5_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+                <text class="noDate">7</text>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_mai">
+                    <rect x="-54" y="-54" width="108" height="108" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(3417)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/10_mai">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(45,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(15)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/11_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/12_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+                <text class="noDate">14</text>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+                <text class="noDate">17</text>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/18_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/19_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_mai">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(39,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(13)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/26_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/27_mai">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+                <text class="noDate">29</text>
+            </g>
+            <g transform="translate(300, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_mai">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 500)">
+                <text class="noDate">31</text>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(1700, 800)">
+        <text class="monthLabel" x="300">Juin</text>
+        <g class="week">
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_juin">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_juin">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/3_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/4_juin">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_juin">
+                    <rect x="-29.5" y="-29.5" width="59" height="59" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(87)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/7_juin">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(51,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(17)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(36,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(12)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/10_juin">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(48,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(16)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/11_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_juin">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(39,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(13)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_juin">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(54,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(18)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/17_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/18_juin">
+                    <rect x="-32" y="-32" width="64" height="64" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(200)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/19_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/24_juin">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/25_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/26_juin">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+            <a href="https://fr.wikipedia.org/wiki/27_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_juin">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_juin">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_juin">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(100, 1500)">
+        <text class="monthLabel" x="300">Juillet</text>
+        <g class="week">
+            <g transform="translate(0, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_juillet">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/5_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/6_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/7_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/10_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/11_juillet">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/12_juillet">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(42,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(14)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/13_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/14_juillet">
+                    <rect x="-37" y="-37" width="74" height="74" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(599)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/17_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/18_juillet">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/19_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/20_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/21_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/26_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/27_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/28_juillet">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_juillet">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_juillet">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(27,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(9)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/31_juillet">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">31</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(900, 1500)">
+        <text class="monthLabel" x="300">Août</text>
+        <g class="week">
+            <g transform="translate(300, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+            <a href="https://fr.wikipedia.org/wiki/3_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(42,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(14)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_août">
+                    <rect x="-28" y="-28" width="56" height="56" class="dateBackground" fill="rgb(105,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(35)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/7_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(42,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(14)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_août">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/10_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(42,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(14)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/11_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(36,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(12)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_août">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_août">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(84,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(28)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_août">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(72,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(24)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/17_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(51,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(17)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/18_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(48,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(16)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/19_août">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(66,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(22)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(51,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(17)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_août">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(87,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(29)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(57,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(19)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_août">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(87,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(29)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(60,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(20)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/26_août">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(48,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(16)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/27_août">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(72,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(24)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(36,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(12)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(36,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(12)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 500)">
+            <a href="https://fr.wikipedia.org/wiki/31_août">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">31</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(1700, 1500)">
+        <text class="monthLabel" x="300">Septembre</text>
+        <g class="week">
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_septembre">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(75,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(25)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/2_septembre">
+                    <rect x="-27.5" y="-27.5" width="55" height="55" class="dateBackground" fill="rgb(66,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(22)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/3_septembre">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(51,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(17)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/4_septembre">
+                    <rect x="-33.5" y="-33.5" width="67" height="67" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(300)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_septembre">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(51,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(17)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/7_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/9_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/10_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/11_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/16_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/17_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/18_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+                <text class="noDate">19</text>
+            </g>
+            <g transform="translate(400, 400)">
+                <text class="noDate">20</text>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_septembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_septembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/23_septembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/24_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/25_septembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+            <a href="https://fr.wikipedia.org/wiki/26_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 500)">
+            <a href="https://fr.wikipedia.org/wiki/27_septembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_septembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_septembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 600)">
+            <a href="https://fr.wikipedia.org/wiki/30_septembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(100, 2200)">
+        <text class="monthLabel" x="300">Octobre</text>
+        <g class="week">
+            <g transform="translate(100, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_octobre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 100)">
+            <a href="https://fr.wikipedia.org/wiki/2_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 100)">
+                <text class="noDate">3</text>
+            </g>
+            <g transform="translate(400, 100)">
+            <a href="https://fr.wikipedia.org/wiki/4_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 100)">
+                <text class="noDate">5</text>
+            </g>
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/6_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/7_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+                <text class="noDate">10</text>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/11_octobre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+                <text class="noDate">12</text>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/13_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+                <text class="noDate">14</text>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/17_octobre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/18_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/19_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+                <text class="noDate">20</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+                <text class="noDate">23</text>
+            </g>
+            <g transform="translate(300, 400)">
+                <text class="noDate">24</text>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/25_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+                <text class="noDate">26</text>
+            </g>
+            <g transform="translate(600, 400)">
+                <text class="noDate">27</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_octobre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+                <text class="noDate">31</text>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(900, 2200)">
+        <text class="monthLabel" x="300">Novembre</text>
+        <g class="week">
+            <g transform="translate(400, 100)">
+                <text class="noDate">1</text>
+            </g>
+            <g transform="translate(500, 100)">
+                <text class="noDate">2</text>
+            </g>
+            <g transform="translate(600, 100)">
+                <text class="noDate">3</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/4_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_novembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+                <text class="noDate">6</text>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/7_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">7</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_novembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+            <a href="https://fr.wikipedia.org/wiki/9_novembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(18,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(6)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 200)">
+                <text class="noDate">10</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/11_novembre">
+                    <rect x="-47.5" y="-47.5" width="95" height="95" class="dateBackground" fill="rgb(256,0,0)" />
+                    <text class="dayLabel">11</text>
+                    <text class="count" y="16">(1987)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_novembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/16_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/17_novembre">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(45,0,0)" />
+                    <text class="dayLabel">17</text>
+                    <text class="count" y="16">(15)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/18_novembre">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(39,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(13)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+            <a href="https://fr.wikipedia.org/wiki/19_novembre">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(39,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(13)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(33,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(11)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/23_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/24_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/25_novembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/26_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(27,0,0)" />
+                    <text class="dayLabel">26</text>
+                    <text class="count" y="16">(9)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/27_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(24,0,0)" />
+                    <text class="dayLabel">27</text>
+                    <text class="count" y="16">(8)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+            <a href="https://fr.wikipedia.org/wiki/28_novembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(21,0,0)" />
+                    <text class="dayLabel">28</text>
+                    <text class="count" y="16">(7)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 500)">
+            <a href="https://fr.wikipedia.org/wiki/29_novembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">29</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 500)">
+            <a href="https://fr.wikipedia.org/wiki/30_novembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+    <g class="month" transform="translate(1700, 2200)">
+        <text class="monthLabel" x="300">Décembre</text>
+        <g class="week">
+            <g transform="translate(600, 100)">
+            <a href="https://fr.wikipedia.org/wiki/1er_décembre">
+                    <rect x="-27" y="-27" width="54" height="54" class="dateBackground" fill="rgb(39,0,0)" />
+                    <text class="dayLabel">1</text>
+                    <text class="count" y="16">(13)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 200)">
+            <a href="https://fr.wikipedia.org/wiki/2_décembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">2</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 200)">
+            <a href="https://fr.wikipedia.org/wiki/3_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">3</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 200)">
+            <a href="https://fr.wikipedia.org/wiki/4_décembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">4</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 200)">
+            <a href="https://fr.wikipedia.org/wiki/5_décembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(36,0,0)" />
+                    <text class="dayLabel">5</text>
+                    <text class="count" y="16">(12)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 200)">
+            <a href="https://fr.wikipedia.org/wiki/6_décembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(9,0,0)" />
+                    <text class="dayLabel">6</text>
+                    <text class="count" y="16">(3)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 200)">
+                <text class="noDate">7</text>
+            </g>
+            <g transform="translate(600, 200)">
+            <a href="https://fr.wikipedia.org/wiki/8_décembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(12,0,0)" />
+                    <text class="dayLabel">8</text>
+                    <text class="count" y="16">(4)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 300)">
+            <a href="https://fr.wikipedia.org/wiki/9_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">9</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 300)">
+            <a href="https://fr.wikipedia.org/wiki/10_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">10</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 300)">
+                <text class="noDate">11</text>
+            </g>
+            <g transform="translate(300, 300)">
+            <a href="https://fr.wikipedia.org/wiki/12_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">12</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 300)">
+            <a href="https://fr.wikipedia.org/wiki/13_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">13</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 300)">
+            <a href="https://fr.wikipedia.org/wiki/14_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">14</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 300)">
+            <a href="https://fr.wikipedia.org/wiki/15_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">15</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 400)">
+            <a href="https://fr.wikipedia.org/wiki/16_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">16</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 400)">
+                <text class="noDate">17</text>
+            </g>
+            <g transform="translate(200, 400)">
+            <a href="https://fr.wikipedia.org/wiki/18_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">18</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 400)">
+            <a href="https://fr.wikipedia.org/wiki/19_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(6,0,0)" />
+                    <text class="dayLabel">19</text>
+                    <text class="count" y="16">(2)</text>
+            </a>
+            </g>
+            <g transform="translate(400, 400)">
+            <a href="https://fr.wikipedia.org/wiki/20_décembre">
+                    <rect x="-26.5" y="-26.5" width="53" height="53" class="dateBackground" fill="rgb(30,0,0)" />
+                    <text class="dayLabel">20</text>
+                    <text class="count" y="16">(10)</text>
+            </a>
+            </g>
+            <g transform="translate(500, 400)">
+            <a href="https://fr.wikipedia.org/wiki/21_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">21</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(600, 400)">
+            <a href="https://fr.wikipedia.org/wiki/22_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">22</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 500)">
+            <a href="https://fr.wikipedia.org/wiki/23_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">23</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 500)">
+            <a href="https://fr.wikipedia.org/wiki/24_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">24</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(200, 500)">
+            <a href="https://fr.wikipedia.org/wiki/25_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">25</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(300, 500)">
+                <text class="noDate">26</text>
+            </g>
+            <g transform="translate(400, 500)">
+                <text class="noDate">27</text>
+            </g>
+            <g transform="translate(500, 500)">
+                <text class="noDate">28</text>
+            </g>
+            <g transform="translate(600, 500)">
+                <text class="noDate">29</text>
+            </g>
+        </g>
+        <g class="week">
+            <g transform="translate(0, 600)">
+            <a href="https://fr.wikipedia.org/wiki/30_décembre">
+                    <rect x="-25.5" y="-25.5" width="51" height="51" class="dateBackground" fill="rgb(3,0,0)" />
+                    <text class="dayLabel">30</text>
+                    <text class="count" y="16">(1)</text>
+            </a>
+            </g>
+            <g transform="translate(100, 600)">
+            <a href="https://fr.wikipedia.org/wiki/31_décembre">
+                    <rect x="-26" y="-26" width="52" height="52" class="dateBackground" fill="rgb(15,0,0)" />
+                    <text class="dayLabel">31</text>
+                    <text class="count" y="16">(5)</text>
+            </a>
+            </g>
+        </g>
+    </g>
+
+</g>
+</svg>
